@@ -42,7 +42,7 @@ Antes de executar o projeto, é necessário ter instalado:
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/fellipesalles2025/Fitinity-Community.git
+git clone git@github.com:fellipesalles2025/Fitinity_Community.git
 ```
 
 2. Entre na pasta do projeto:
