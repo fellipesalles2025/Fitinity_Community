@@ -4,6 +4,13 @@ API REST desenvolvida para a plataforma **Fitinity Community**, uma rede social 
 
 O projeto permite o cadastro e autenticação de usuários, gerenciamento de perfis, criação de publicações e interação entre usuários.
 
+## 👥 Integrantes
+
+- **Integrante 1:** Nome completo
+- **Integrante 2:** Nome completo
+- **Integrante 3:** Nome completo
+- **Integrante 4:** Nome completo
+
 ## Tecnologias utilizadas
 
 - Node.js
