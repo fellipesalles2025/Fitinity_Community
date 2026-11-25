@@ -6,10 +6,10 @@ O projeto permite o cadastro e autenticação de usuários, gerenciamento de per
 
 ## 👥 Integrantes
 
-- **Integrante 1:** Nome completo
-- **Integrante 2:** Nome completo
-- **Integrante 3:** Nome completo
-- **Integrante 4:** Nome completo
+- **Integrante 1:** Fellipe Fernandez Salles
+- **Integrante 2:** Diogo Mgalhães de Araújo
+- **Integrante 3:** Ronie Rocha
+- **Integrante 4:** Luis Fernando Da Silva Gois
 
 ## Tecnologias utilizadas
 
